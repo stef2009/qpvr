@@ -10,10 +10,10 @@ https://discord.gg/quq42SB4xc
 
 
 
-#UPDATES
+# UPDATES
 22/4/2025-Just started, realy nothing to wach
 
-#TOOLS
+# TOOLS
 1) Your brain
 2) Screw-driver set
 3) Soldering-Iron and (flux with fludor)
